@@ -1,0 +1,236 @@
+[
+    {
+        "id": 1,
+        "titulo": "Matrix",
+        "diretor": "Lana Wachowski, Lilly Wachowski",
+        "classificacaoEtaria": "14 anos",
+        "anoLancamento": 1999,
+        "duracao": 136,
+        "atores": [
+            "Keanu Reeves",
+            "Carrie-Anne Moss",
+            "Laurence Fishburne"
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Inception",
+        "diretor": "Christopher Nolan",
+        "classificacaoEtaria": "12 anos",
+        "anoLancamento": 2010,
+        "duracao": 148,
+        "atores": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "The Shawshank Redemption",
+        "diretor": "Frank Darabont",
+        "classificacaoEtaria": "16 anos",
+        "anoLancamento": 1994,
+        "duracao": 142,
+        "atores": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Taxi Driver",
+        "diretor": "Martin Scorsese",
+        "classificacaoEtaria": "18 anos",
+        "anoLancamento": 1976,
+        "duracao": 113,
+        "atores": [
+            "Robert De Niro",
+            "Jodie Foster",
+            "Cybill Shepherd"
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Raging Bull",
+        "diretor": "Martin Scorsese",
+        "classificacaoEtaria": "16 anos",
+        "anoLancamento": 1980,
+        "duracao": 129,
+        "atores": [
+            "Robert De Niro",
+            "Joe Pesci",
+            "Cathy Moriarty"
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Pulp Fiction",
+        "diretor": "Quentin Tarantino",
+        "classificacaoEtaria": "18 anos",
+        "anoLancamento": 1994,
+        "duracao": 154,
+        "atores": [
+            "John Travolta",
+            "Samuel L. Jackson",
+            "Uma Thurman"
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Dogville",
+        "diretor": "Lars von Trier",
+        "classificacaoEtaria": "16 anos",
+        "anoLancamento": 2003,
+        "duracao": 178,
+        "atores": [
+            "Nicole Kidman",
+            "Harriet Andersson",
+            "Lauren Bacall"
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "Shutter Island",
+        "diretor": "Martin Scorsese",
+        "classificacaoEtaria": "14 anos",
+        "anoLancamento": 2010,
+        "duracao": 138,
+        "atores": [
+            "Leonardo DiCaprio",
+            "Mark Ruffalo",
+            "Ben Kingsley"
+        ]
+    },
+    {
+        "id": 9,
+        "titulo": "Forrest Gump",
+        "diretor": "Robert Zemeckis",
+        "classificacaoEtaria": "12 anos",
+        "anoLancamento": 1994,
+        "duracao": 142,
+        "atores": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "Oldboy",
+        "diretor": "Park Chan-wook",
+        "classificacaoEtaria": "18 anos",
+        "anoLancamento": 2003,
+        "duracao": 120,
+        "atores": [
+            "Choi Min-sik",
+            "Kang Hye-jung",
+            "Yoo Ji-tae"
+        ]
+    },
+    {
+        "id": 11,
+        "titulo": "American History X",
+        "diretor": "Tony Kaye",
+        "classificacaoEtaria": "18 anos",
+        "anoLancamento": 1998,
+        "duracao": 119,
+        "atores": [
+            "Edward Norton",
+            "Edward Furlong",
+            "Beverly D'Angelo"
+        ]
+    },
+    {
+        "id": 12,
+        "titulo": "Goodfellas",
+        "diretor": "Martin Scorsese",
+        "classificacaoEtaria": "16 anos",
+        "anoLancamento": 1990,
+        "duracao": 146,
+        "atores": [
+            "Robert De Niro",
+            "Ray Liotta",
+            "Joe Pesci"
+        ]
+    },
+    {
+        "id": 13,
+        "titulo": "The Godfather",
+        "diretor": "Francis Ford Coppola",
+        "classificacaoEtaria": "16 anos",
+        "anoLancamento": 1972,
+        "duracao": 175,
+        "atores": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ]
+    },
+    {
+        "id": 14,
+        "titulo": "Scarface",
+        "diretor": "Brian De Palma",
+        "classificacaoEtaria": "18 anos",
+        "anoLancamento": 1983,
+        "duracao": 170,
+        "atores": [
+            "Al Pacino",
+            "Michelle Pfeiffer",
+            "Steven Bauer"
+        ]
+    },
+    {
+        "id": 15,
+        "titulo": "Joker",
+        "diretor": "Todd Phillips",
+        "classificacaoEtaria": "16 anos",
+        "anoLancamento": 2019,
+        "duracao": 122,
+        "atores": [
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Zazie Beetz"
+        ]
+    },
+    {
+        "id": 16,
+        "titulo": "Kill Bill: Volume 1",
+        "diretor": "Quentin Tarantino",
+        "classificacaoEtaria": "18 anos",
+        "anoLancamento": 2003,
+        "duracao": 111,
+        "atores": [
+            "Uma Thurman",
+            "Lucy Liu",
+            "Vivica A. Fox"
+        ]
+    },
+    {
+        "id": 17,
+        "titulo": "Kill Bill: Volume 2",
+        "diretor": "Quentin Tarantino",
+        "classificacaoEtaria": "18 anos",
+        "anoLancamento": 2004,
+        "duracao": 137,
+        "atores": [
+            "Uma Thurman",
+            "David Carradine",
+            "Daryl Hannah"
+        ]
+    },
+    {
+        "id": 18,
+        "titulo": "Django Livre",
+        "diretor": "Quentin Tarantino",
+        "classificacaoEtaria": "18 anos",
+        "anoLancamento": 2012,
+        "duracao": 165,
+        "atores": [
+            "Jamie Foxx",
+            "Christoph Waltz",
+            "Leonardo DiCaprio"
+        ]
+    }
+]
