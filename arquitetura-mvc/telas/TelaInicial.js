@@ -1,14 +1,15 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, Button, FlatList, TextInput } from 'react-native';
-import ViewModelFilme from '../src/viewmodel/ViewModelFilme';
+import FilmeController from '../src/controller/FilmeController';
 
 
 function TelaInicial({ navigation }) {
     const [filmes, setFilmes] = useState([]);
     const [ator, setAtor] = useState("");
+    var filmeController = new FilmeController();
 
     const buscarFilmes = async () => {
-        const novosFilmes = await ViewModelFilme.buscarFilmes(ator);
+        const novosFilmes = await filmeController.buscarFilmes(ator);
         console.log(novosFilmes)
         setFilmes(novosFilmes);
     };
